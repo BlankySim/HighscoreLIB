@@ -1,0 +1,2 @@
+# HighscoreLIB
+Highscore managment library
